@@ -4,7 +4,7 @@
 
 ### [10월 첫째주] : machine learning, github
 
-25.10.14 CUDA, GPU 이해하기 [상세 내역 링크](https://velog.io/@min_tech/CUDA)
+25.10.14 CUDA, GPU 이해하기 [링크](https://velog.io/@min_tech/CUDA)
 
 25.10.15 github 특강 (상세 내역 링크)
 
