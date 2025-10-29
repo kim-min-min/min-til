@@ -2,7 +2,7 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [10월] : machine learning, github
+### [10월] : Machine Learning, Deep Learning, Github
 
 25.10.14 CUDA, GPU 이해하기 [링크](https://velog.io/@min_tech/CUDA)
 
