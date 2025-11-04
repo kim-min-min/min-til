@@ -14,6 +14,8 @@
 
 25.10.29 YOLOv1 [링크](https://velog.io/@min_tech/YOLO-v1)
 
+### [11월] : Deep Learning, Transformer
+
 25.11.4 Transformer [링크](https://velog.io/@min_tech/Transformer)
 
 
