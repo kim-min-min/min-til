@@ -18,6 +18,8 @@
 
 25.11.4 Transformer [링크](https://velog.io/@min_tech/Transformer)
 
+25.11.18 Transformer [링크](https://velog.io/@min_tech/NDJSON)
+
 
 
 
